@@ -53,7 +53,7 @@ body {
 
 #bottom {
     border: 1px solid #d4d4d4;
-    background-color:slateblue;
+    background-color:darkgreen;
     text-align: center;
     padding: 10px;
     font-size: 70%;
