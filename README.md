@@ -133,24 +133,17 @@ a:hover {
        <li class="menuitem" onclick="noStyles()">Invalid
      </ul>
     </div>
-<table cellspacing="30">
-<tr>
-<td>
+
 
 <h3 align="center">Name:Akshatha P</h3>
 <img src="1559534360566.jpg"alt="akshatha's profile picture" height="250" weight="250">
 <p></p>
-</td>
-<td>
+
 
 <p><em>I am a student </em>studying in Siddaganga Institute of Technology.</p>
 <p>I am a developer with both frontend and backend knowledge</p>
 
 <h4>Phone no:</h4><p>7760536951</p>
-</td>
-
-</tr>
-</table>
  
     <div id="sidebar">
       <h3>AKSHATHA P</h3>
