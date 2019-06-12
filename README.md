@@ -133,6 +133,8 @@ a:hover {
        <li class="menuitem" onclick="noStyles()">Invalid
      </ul>
     </div>
+	</div>
+	</div>
 
 
 <h3 align="center">Name:Akshatha P</h3>
@@ -150,30 +152,8 @@ a:hover {
       <p>CSE</p>
 	<p>SIT tumkur</p>
     </div>
-  </div>  
-  
-  
-  
-</div>
-
-
-
-
-
-
-
-<hr>
-<div id="main">
-      <h1>CONTENTS</h1>
-      
-      <a href="#" onclick="reStyle(0);return false">Education</a>,
-      <a href="#" onclick="reStyle(1);return false">College and School</a>,
-      <a href="#" onclick="reStyle(2);return false">Additional skills</a>,
-      <a href="#" onclick="reStyle(3);return false">Personal details</a>.
-      </p>
-       <h2>INVALID</h2>
-      <p>This page uses DIV elements to group different sections of the HTML page. Click here to see how the page looks like with no option:<br><a href="#" onclick="noStyles();return false">Invalid</a>.</p>
-   </div>
+   
+ 
 <hr>
 <h2>Education</h2>
 <p><li>10th cbse marks obtained is 10 cgpa</li></p>
