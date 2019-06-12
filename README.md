@@ -6,8 +6,7 @@
 body {
     font: 100% Lucida Sans, Verdana;
 	background-color: salmon;
-
-    margin: 20px;
+	margin: 20px;
     line-height: 50px;
 }
 
