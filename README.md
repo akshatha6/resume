@@ -131,6 +131,8 @@ a:hover {
        <li class="menuitem" onclick="reStyle(2)">Additional skills
        <li class="menuitem" onclick="reStyle(3)">Personal details
        <li class="menuitem" onclick="noStyles()">Invalid
+	   </ul>
+	  </div>
      
    
 
