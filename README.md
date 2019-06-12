@@ -5,7 +5,7 @@
 <style>/* Stylesheet 1: */
 body {
     font: 100% Lucida Sans, Verdana;
-	background-color: darkseagreen;
+	background-color:gray;
 	margin: 20px;
     line-height: 50px;
 }
@@ -25,7 +25,7 @@ body {
 }
 
 #top {
-    background-color:green;
+    background-color:slateblue;
     color: #ffffff;
     padding: 15px;
 }
@@ -41,7 +41,7 @@ body {
 }
 
 #sidebar {
-    background-color: green;
+    background-color:slateblue;
     color: #ffffff;
     padding: 10px;
     width: 180px;
@@ -53,7 +53,7 @@ body {
 
 #bottom {
     border: 1px solid #d4d4d4;
-    background-color:green;
+    background-color:slateblue;
     text-align: center;
     padding: 10px;
     font-size: 70%;
