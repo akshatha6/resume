@@ -143,11 +143,7 @@ a:hover {
 
 <h4>Phone no:</h4><p>7760536951</p>
  
-    <div id="sidebar">
-      <h3>AKSHATHA P</h3>
-      <p>CSE</p>
-	<p>SIT tumkur</p>
-    </div>
+    
    
  
 <hr>
