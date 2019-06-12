@@ -78,7 +78,7 @@ body {
 }
 
 .menuitem:first-child {
-   background-color:#4CAF50;
+   background-color:slateblue;
    color: white;
    font-weight:bold;
 }
