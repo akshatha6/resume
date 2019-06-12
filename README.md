@@ -5,7 +5,7 @@
 <style>/* Stylesheet 1: */
 body {
     font: 100% Lucida Sans, Verdana;
-	background-color: salmon;
+	background-color: black;
 	margin: 20px;
     line-height: 50px;
 }
