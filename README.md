@@ -25,7 +25,7 @@ body {
 }
 
 #top {
-    background-color:slateblue;
+    background-color:darkgreen;
     color: #ffffff;
     padding: 15px;
 }
@@ -41,7 +41,7 @@ body {
 }
 
 #sidebar {
-    background-color:slateblue;
+    background-color:darkgreen;
     color: #ffffff;
     padding: 10px;
     width: 180px;
@@ -78,7 +78,7 @@ body {
 }
 
 .menuitem:first-child {
-   background-color:slateblue;
+   background-color:darkgreen;
    color: white;
    font-weight:bold;
 }
