@@ -133,8 +133,8 @@ a:hover {
        <li class="menuitem" onclick="noStyles()">Invalid
      </ul>
     </div>
-</div>
-</div>
+
+
 
 
 
@@ -155,6 +155,7 @@ a:hover {
       <h3>AKSHATHA P</h3>
       <p>CSE</p>
 	<p>SIT tumkur</p>
+    </div>
     </div>
   
   
