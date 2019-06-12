@@ -129,9 +129,9 @@ a:hover {
        <li class="menuitem" onclick="noStyles()">Invalid
      </ul>
     </div>
-	</div>
-	</div>
-
+</div>
+</div>
+<hr>
 
 <h3 align="center">Name:Akshatha P</h3>
 <img src="1559534360566.jpg"alt="akshatha's profile picture" height="250" weight="250">
