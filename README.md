@@ -14,7 +14,7 @@ body {
 }
 
 .wrapper {
-    position: relative;
+    position:absolute;
     overflow: auto;
 }
 
