@@ -157,18 +157,7 @@ a:hover {
 	<p>SIT tumkur</p>
     </div>
     </div>
-  
-  
-  
-  
-
-
-
-
-
-
-
-<h2>Education</h2>
+ <h2>Education</h2>
 <p><li>10th cbse marks obtained is 10 cgpa</li></p>
 <p><li>2nd puc marks obtained is 95.2 percent</li></p>
 <hr>
@@ -190,7 +179,5 @@ a:hover {
 <hr>
 <a href="my further details">my further details</a>
 <hr>
-
-
 </body>
 </html>
