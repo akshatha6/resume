@@ -97,9 +97,7 @@ a:hover {
         width: auto;
         position: relative;
     } 
-    #main {
-        margin-right: 0;
-    }    
+    
        
 }
 
@@ -108,9 +106,7 @@ a:hover {
         width: auto;
         float: none;
     }
-    #main {
-        margin: 0;
-    }    
+   
 }
 </style>
 
